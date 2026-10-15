@@ -1,0 +1,17 @@
+.venv/
+.venv312/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/secrets.toml
+.env
+.env.*
+datasets/
+dataset/
+data/
+runs/
+*.pt
+*.pth
+dataset_split/
+detection_dataset/
